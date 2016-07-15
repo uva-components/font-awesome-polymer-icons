@@ -28,5 +28,8 @@
     "bower_components",
     "package.json",
     "update.js"
-  ]
+  ],
+  "resolutions": {
+    "polymer": "^1.1.0"
+  }
 }
