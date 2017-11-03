@@ -16,10 +16,7 @@
     "web-components"
   ],
   "dependencies": {
-    "uvalib-elements": "uvalib-components/uvalib-elements#master",
-    "iron-icon": "PolymerElements/iron-icon#~1.0.0",
-    "iron-icons": "PolymerElements/iron-icons#~1.0.0",
-    "iron-iconset-svg": "PolymerElements/iron-iconset-svg#~1.0.0"
+    "uva-elements": "uva-components/uva-elements#master"
   },
   "license": "MIT",
   "homepage": "https://github.com/vangware/fontawesome-iconset",
